@@ -1,3 +1,5 @@
+# Chanigng Side Banners
+![](featured-image.png)
 # Instructions
 
 ## 1. Upload images
