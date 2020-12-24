@@ -1,4 +1,4 @@
-# Chanigng Side Banners
+# Changing Side Banners
 ![](featured-image.png)
 # Instructions
 
