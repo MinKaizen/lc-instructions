@@ -3,7 +3,7 @@
 ## 1. Upload images
 1. Go to www.myonlinestartup.com/wp-admin
 2. Click on `Media` in the left side menu
-3. Click on the blue button "Add new"
+3. Click on the blue button ``Add new``
 4. Drag your images in to upload them
 
 ## 2. Write down image links
