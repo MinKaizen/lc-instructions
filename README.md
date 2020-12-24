@@ -23,7 +23,7 @@ On the right hand side, there should be a few boxes with a light blue top border
 
 3. Click on the box `Free Course Banners1` to expand it
 4. Click on "Custom HTML" to see the code
-5. Copy the code into your code editor (e.g. VS Code).
+5. Don't edit the code then and there. Instead, Copy the code into your code editor (e.g. VS Code). You might want to save a copy as a backup before editing it.
 
 If you save the file as something.html, you will get syntax highlighting and it will look something like this:
 
@@ -97,3 +97,15 @@ To change a banner, you need to:
 3. Find the part where it says `<img src="/media/...`
 4. Replace the link in the quotes with the link you copied down when you Uploaded the images
 > Note: the links won't have `www.myonlinestartup.com` in it, because that part is omitted. You should ommit it too. So instead of `www.mos.com/partner` you should just insert `/partner` (include the opening slash)
+
+## 5. Pasting the code back into the site
+1. Go back to where you found the original code
+`Appearance > Widgets > Free Course Banners1 > Custom HTML`
+2. Paste the new code in there and save it
+3. IMPORTANT: you also have to paste it in 2 other boxes:
+
+`Legendary Membership1`
+
+and
+
+`Partner Membership1`
