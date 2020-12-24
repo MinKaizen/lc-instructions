@@ -1,6 +1,4 @@
 # Changing Side Banners
-![](featured-image.png)
-# Instructions
 
 ## 1. Upload images
 1. Go to www.myonlinestartup.com/wp-admin
