@@ -84,8 +84,8 @@ The code contains 3 blocks, with 3 images in each block. It looks something like
 <a><img>Third Image</a>
 ```
 To change a banner, you need to:
-1. Change the link (if you want the link to change)
-2. Change the image
+1. Change the image
+2. Change the link (if you want the link to change)
 
 ### Changing a link:
 1. Go to the block you want to edit (Free Member, Partner or Legendary)
